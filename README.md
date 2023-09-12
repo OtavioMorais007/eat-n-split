@@ -53,8 +53,8 @@ Este é um simples aplicativo React que permite dividir contas e despesas com se
 ## Capturas de Tela
 
 ![Captura de Tela 1](/screenshots/screenshot1.PNG)
-![Captura de Tela 2](/screenshots/screenshot2.png)
-![Captura de Tela 3](/screenshots/screenshot3.png)
+![Captura de Tela 2](/screenshots/screenshot2.PNG)
+![Captura de Tela 3](/screenshots/screenshot3.PNG)
 
 ## Contribuidores
 
